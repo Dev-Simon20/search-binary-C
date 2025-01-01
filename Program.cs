@@ -1,1 +1,3 @@
-﻿Console.WriteLine("Hola mundo, !");
+﻿Console.WriteLine("Hola  que tal, !");
+
+Console.WriteLine("SEGUNDO COMADO");
