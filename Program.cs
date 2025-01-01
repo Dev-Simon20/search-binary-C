@@ -1,3 +1,3 @@
 ﻿Console.WriteLine("Hola  que tal, !");
 
-Console.WriteLine("SEGUNDO COMADO");
+Console.WriteLine("Modificando la segunda linea");
